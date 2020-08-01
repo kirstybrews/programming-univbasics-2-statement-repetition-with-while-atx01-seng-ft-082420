@@ -1,5 +1,5 @@
 count = 10
-while 1 < count <= 10 do
+while count > 1 <= 10 do
   puts "#{count}"
 count -= 1
 end
